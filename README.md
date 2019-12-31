@@ -1,4 +1,4 @@
-## Instalation
+## Installation
 
 Requirement
 - npm
